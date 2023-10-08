@@ -157,6 +157,7 @@ int main()
 	}
 	root = deleteNode(root, 3);
 	cout<<endl<<"Duyet cay voi nut NLR sau khi xoa nut:";
+	cout<<"sua de test cai lenh git diff ay minh !!!!";
 	NLR(root);
 	system("pause");
 }
